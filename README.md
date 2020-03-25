@@ -1,6 +1,4 @@
-# garbagio
-these are garbagio solidity contracts
-so basically they work really well
+
 PLEASE DO NOT SEND ANY TOKENS TO ANY OF THE CONTRACTS APART FROM THE ERC-20 NAIVESPLIT ONES. SUCC/ABSORBCONTRACTFUNDS WILL </u> NOT <u/> WORK!
 
 

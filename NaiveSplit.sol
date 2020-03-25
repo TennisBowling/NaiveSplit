@@ -1,6 +1,4 @@
-/**
- *Submitted for verification at Etherscan.io on 2020-03-25
-*/
+// MAINNET CONTRACT lives at: [0xbddcca31151de460847e6a9ed6d533b007872a8d](https://etherscan.io/address/0xb0ebc0f42420dcf301c711f79850b76213fad373)
 
 pragma solidity ^0.4.6;
 

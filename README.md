@@ -1,5 +1,6 @@
 # garbagio
 these are garbagio solidity contracts
+so basically they work really well
 
 
 # testnet

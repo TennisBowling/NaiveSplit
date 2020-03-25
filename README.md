@@ -1,8 +1,8 @@
 
+# security
 PLEASE DO NOT SEND ANY TOKENS TO ANY OF THE CONTRACTS APART FROM THE ERC-20 NAIVESPLIT ONES. SUCC/ABSORBCONTRACTFUNDS WILL </u> NOT <u/> WORK!
 
-
-at no point in time are funds held in the contract with correct pay() calling. they are taken in and send at the same time in 1 transaction.
+at no point in time are funds held in the contract with correct `pay()` calling. they are taken in and send at the same time in 1 transaction.
 
 # testnet
 testnet naivesplit: https://ropsten.etherscan.io/address/0xbddcca31151de460847e6a9ed6d533b007872a8d

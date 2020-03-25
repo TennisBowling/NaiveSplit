@@ -6,6 +6,8 @@ at no point in time are funds held in the contract with correct `pay()` calling.
 
 # testnet
 testnet naivesplit: https://ropsten.etherscan.io/address/0xbddcca31151de460847e6a9ed6d533b007872a8d
+can also be accessed at naivesplit.eth
+
 has some old comments and not the name succ, otherwise, the same as mainnet.
 PERFECTLY SAFE TO USE GO AHEAD AND HOME AUDIT IF YOU WANT, PLEASE IGNORE THE WARNINGS THOSE WERE FOR A PROTOTYPE
 

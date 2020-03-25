@@ -1,3 +1,4 @@
+//TESTNET CONTRACT lives at: https://ropsten.etherscan.io/address/0xbddcca31151de460847e6a9ed6d533b007872a8d, or 0xbddcca31151de460847e6a9ed6d533b007872a8d
 
 pragma solidity ^0.4.6;
 

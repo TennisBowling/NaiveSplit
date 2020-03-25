@@ -1,6 +1,6 @@
 
 # security
-PLEASE DO NOT SEND ANY TOKENS TO ANY OF THE CONTRACTS APART FROM THE ERC-20 NAIVESPLIT ONES. SUCC/ABSORBCONTRACTFUNDS WILL </u> NOT <u/> WORK!
+PLEASE DO NOT SEND ANY TOKENS TO ANY OF THE CONTRACTS APART FROM THE ERC-20 NAIVESPLIT ONES. `SUCC/ABSORBCONTRACTFUNDS` WILL </u> NOT <u/> WORK!
 
 at no point in time are funds held in the contract with correct `pay()` calling. they are taken in and send at the same time in 1 transaction.
 
